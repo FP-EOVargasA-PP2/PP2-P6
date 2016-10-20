@@ -1,0 +1,7 @@
+run:
+Introduce el salario por hora del empleado
+100
+Introduce el numero de horas trabajadas del empleado
+52
+La paga semanal del empleado sera 6800
+BUILD SUCCESSFUL (total time: 15 seconds)
